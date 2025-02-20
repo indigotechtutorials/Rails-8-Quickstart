@@ -3,6 +3,8 @@
 # That should be a default for new rails apps with our quickstart template for Rails 8 and Tailwind
 # Built by Indigo Tech Tutorials
 
+rails_command("db:create")
+
 gem "devise"
 gem "tailwindcss-rails"
 

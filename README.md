@@ -20,3 +20,9 @@ Because I haven't found any simple quickstart templates that work well with the 
 
 I wanted a simple quickstart template that would save me the hours of time spent on new projects just to configure them with these basic features every app needed.
 
+## How to use it?
+
+```ruby
+rails new my-app -m https://raw.githubusercontent.com/indigotechtutorials/Rails-8-Quickstart/refs/heads/main/start.rb
+```
+
